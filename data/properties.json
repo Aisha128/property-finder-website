@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Mushairib Apartment",
+    "type": "Apartment",
+    "price": "800,000 QAR",
+    "location": "Mushairib",
+    "score": 7,
+    "description": "A modern apartment in a great location with a beautiful view.",
+    "recommendation": "This apartment is a strong choice because it has a modern design, a convenient location, and a comfortable living space.",
+    "slider_images": [
+      { "label": "House", "file": "images/apartment.jpg" },
+      { "label": "Bedroom", "file": "images/room_apt.png" },
+      { "label": "Kitchen", "file": "images/kitchen_apt.png" },
+      { "label": "Living Room", "file": "images/living_apt.png" },
+      { "label": "Bathroom", "file": "images/bathroom_apt.png" }
+    ],
+    "facts": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "furnished": "Yes"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Lusail Villa",
+    "type": "Villa",
+    "price": "1,200,000 QAR",
+    "location": "Lusail",
+    "score": 9,
+    "description": "A spacious villa suitable for families with large rooms and outdoor space.",
+    "recommendation": "This villa offers more space, privacy, and a peaceful environment for families.",
+    "slider_images": [
+      { "label": "House", "file": "images/villa.png" },
+      { "label": "Bedroom", "file": "images/room_villa.png" },
+      { "label": "Kitchen", "file": "images/kitchen_villa.png" },
+      { "label": "Living Room", "file": "images/living_villa.png" },
+      { "label": "Bathroom", "file": "images/bathroom_villa.png" }
+    ],
+    "facts": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "furnished": "Yes"
+    }
+  },
+  {
+    "id": 3,
+    "name": "West Bay Studio",
+    "type": "Studio",
+    "price": "550,000 QAR",
+    "location": "West Bay",
+    "score": 8,
+    "description": "A compact studio close to many attractions and public facilities.",
+    "recommendation": "This studio is perfect for students or individuals looking for an affordable and practical home.",
+    "slider_images": [
+      { "label": "House", "file": "images/studio.png" },
+      { "label": "Bedroom", "file": "images/room_studio.png" },
+      { "label": "Kitchen", "file": "images/kitchen_studio.png" },
+      { "label": "Living Room", "file": "images/living_studio.png" },
+      { "label": "Bathroom", "file": "images/bathroom_studio.png" }
+    ],
+    "facts": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "furnished": "Yes"
+    }
+  }
+]

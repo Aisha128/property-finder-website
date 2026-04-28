@@ -1,0 +1,44 @@
+[
+    {
+        "property_id": 1,
+        "username": "Mubarak",
+        "rating": 6,
+        "comment": "Nice location and clean apartment but not suitable for families."
+    },
+    {
+        "property_id": 1,
+        "username": "Saleh",
+        "rating": 9,
+        "comment": "Perfect area with everything nearby."
+    },
+    {
+        "property_id": 2,
+        "username": "Khadija",
+        "rating": 10,
+        "comment": "Very spacious and clean area."
+    },
+    {
+        "property_id": 2,
+        "username": "Mona",
+        "rating": 8,
+        "comment": "Nice but too big, fits a big family."
+    },
+    {
+        "property_id": 2,
+        "username": "Mubarak",
+        "rating": 9,
+        "comment": "Lovely place in a covenient area."
+    },
+    {
+        "property_id": 3,
+        "username": "Khadija",
+        "rating": 7,
+        "comment": "Very small, for single people only."
+    },
+    {
+        "property_id": 3,
+        "username": "Mona",
+        "rating": 9,
+        "comment": "Honestly cute place"
+    }
+]
